@@ -68,7 +68,7 @@ namespace Exercises
         {
             return new()
             {
-                new(1, "admin", "admin"),
+                new(1, "admiN", "admin"),
                 new(2, "sa", "12345"),
                 new(3, "johndoe", "contrasena"),
                 new(4, "miguel94", "19940707")
